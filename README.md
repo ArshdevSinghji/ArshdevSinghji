@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshdevsinghji" alt="arshdevsinghji" /></a> </p>
 
-- 🔭 I’m currently working on **ChatApp**
-
-- 🌱 I’m currently learning **NestJS**
-
 - 📫 How to reach me **arshdevrajput@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
