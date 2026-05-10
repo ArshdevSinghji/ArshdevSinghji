@@ -11,7 +11,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### hey, I'm Arshdev 👋
+### hey, I'm Arshdev Singh 👋
 
 I build things for the internet — mostly the parts you *don't* see.<br/>
 Distributed systems, event-driven architectures, and the occasional rabbit hole (pun intended, RabbitMQ is real).
@@ -84,10 +84,6 @@ A deep-dive into distributed reliability. Implemented the **Outbox-Inbox pattern
 ### 📊 By the numbers
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arshdevsinghji&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshdevsinghji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=arshdevsinghji&theme=tokyonight&no-frame=true&row=1)
 
