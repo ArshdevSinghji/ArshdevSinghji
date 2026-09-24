@@ -1,16 +1,5 @@
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   $ whoami                                                  │
-│   > arshdev singh                                           │
-│   $ describe --brief                                        │
-│   > backend engineer. microservices nerd. bug whisperer.   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ### hey, I'm Arshdev Singh 👋
 
 Distributed systems, event-driven architectures, and the occasional rabbit hole.
