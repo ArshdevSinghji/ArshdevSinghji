@@ -15,8 +15,6 @@ Distributed systems, event-driven architectures, and the occasional rabbit hole.
 ---
 <div align="center">
 
-*Currently: building cool stuff @ Zenmonk · Open to opportunities · Always up for a good system design convo*
-
 `Ship it. Learn from it. Build it better.`
 
 </div>
